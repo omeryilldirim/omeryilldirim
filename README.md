@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ömer Yıldırım</h1>
 <h3 align="center">Fullstack Developer...</h3>
 
-![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeryilldirim&label=Profile%20views&color=0e75b6&style=flat" alt="omeryilldirim" /> </p>
 
