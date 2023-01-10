@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ömer Yıldırım</h1>
 <h3 align="center">Fullstack Developer...</h3>
 
-<!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omeryilldirim" alt="omeryilldirim" /></a> </p> -->
