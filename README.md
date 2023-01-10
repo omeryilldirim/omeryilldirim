@@ -24,6 +24,7 @@
 <a href="https://instagram.com/yilldirimomerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yilldirimomerr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yildirimomer3447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yildirimomer3447" height="30" width="40" /></a>
 </p>
+
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/omeryilldirim/badges/large)
 
 <h3 align="left">Languages and Tools:</h3>
