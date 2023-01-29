@@ -41,10 +41,10 @@
 
 
 
-
+<!--
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Sezer
+## 👷🏻‍♀️👋🏻 Hi there, 
 
 <font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
 </br>
@@ -159,3 +159,4 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
+-->
