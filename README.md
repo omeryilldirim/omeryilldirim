@@ -88,7 +88,7 @@
         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeryilldirim&label=Profile%20views&color=0e75b6&style=flat" alt="omeryilldirim" /> </p> 
 
-<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div>
 <h2 align="center">My Projects</h2>
 
 ###
