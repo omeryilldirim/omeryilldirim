@@ -156,16 +156,17 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 <br>
 
+<!--
 <h2 align="center">💡Most Used Language</h2>
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=omeryilldirim&theme=blue-black"
+     src="https://github-readme-stats.vercel.app/api?username=omeryilldirim&theme=blue-green"
      alt=""
      />
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeryilldirim&theme=blue-black"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeryilldirim&theme=blue-green"
      alt=""
      />
 </div>
-
+-->
