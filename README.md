@@ -54,7 +54,6 @@
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="2" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -92,10 +91,6 @@
 
 ###
 
-Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
-
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omeryilldirim&show_icons=true&locale=en&layout=compact" alt="omeryilldirim" /></p>
 
@@ -130,7 +125,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 ###
 
-Project Demo       |Libraries and Technologies I use     |Project Preview   
+Project Demo       |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 -->
