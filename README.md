@@ -24,9 +24,9 @@
 <!-- <a href="https://instagram.com/yilldirimomerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yilldirimomerr" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/@yildirimomer3447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yildirimomer3447" height="30" width="40" /></a>
 </p>
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezer-%C3%B6kmen-971a21236/)
+
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:szrokmn34@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
+
 
 <!--![My Codewarrior Profile Badge](https://www.codewars.com/users/omeryilldirim/badges/large)-->
 
