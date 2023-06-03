@@ -26,7 +26,9 @@
 <a href="https://www.hackerrank.com/@yildirimomer3447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yildirimomer3447" height="30" width="40" /></a>
 </p>
 -->
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-yilldirim/)
+
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:omeryilldirim@outlook.com)
 
 
