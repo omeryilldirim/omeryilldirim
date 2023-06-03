@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Ömer</h1>
 <h3 align="center">Fullstack Developer...</h3>
 
-![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg)
-
+<!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
+<div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div>
 
 - 🔭 I’m in a backend bootcamp, learning **django**
 
@@ -85,10 +85,8 @@
 </div>
 
 ###
-        
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omeryilldirim&label=Profile%20views&color=0e75b6&style=flat" alt="omeryilldirim" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omeryilldirim&label=Profile%20views&color=0e75b6&style=flat" alt="omeryilldirim" /> </p>         
 
-<div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div>
 <h2 align="center">My Projects</h2>
 
 ###
@@ -104,8 +102,6 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omeryilldirim&" alt="omeryilldirim" /></p>
 -->
-
-
 
 <!--
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
@@ -137,7 +133,6 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 -->
-
 
 <br>
 
