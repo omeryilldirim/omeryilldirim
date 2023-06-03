@@ -27,6 +27,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:omeryilldirim@outlook.com)
 
 <!--![My Codewarrior Profile Badge](https://www.codewars.com/users/omeryilldirim/badges/large)-->
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -87,7 +88,6 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeryilldirim&label=Profile%20views&color=0e75b6&style=flat" alt="omeryilldirim" /> </p>         
 
-<h2 align="center">My Projects</h2>
 
 ###
 
