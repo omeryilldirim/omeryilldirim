@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ömer</h1>
 <h3 align="center">Fullstack Developer...</h3>
 
-
-<a align="center" href="https://omeryildirim.netlify.app/">Click to Visit My Personal Website</a>
-
+<div align="center">
+<a href="https://omeryildirim.netlify.app/">Click to Visit My Personal Website</a>
+</div>
 [Click to Visit My Personal Website](https://omeryildirim.netlify.app/)
 
 
