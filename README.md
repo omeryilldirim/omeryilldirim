@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img src="https://img.favpng.com/22/18/12/circle-icon-git-icon-github-icon-png-favpng-PnLDyXfUS9fasbN60LZ2HKMqa.jpg" height="40" alt="github logo"  />
+  <img src="https://e7.pngegg.com/pngimages/218/765/png-clipart-computer-icons-github-desktop-icon-github-carnivoran-dog-like-mammal.png" height="40" alt="github logo"  />
   <img width="2" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
   <img width="2" />
