@@ -129,7 +129,7 @@
 
 Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Weather App](hhttps://omeryilldirim.github.io/Weather-App/) <h5>[Weather App](https://omeryilldirim.github.io/Weather-App/)</h5> | Vanilla JS, PureCSS |![Weather](https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif)
+[Weather App](hhttps://omeryilldirim.github.io/Weather-App/) <h5>[Weather App](https://omeryilldirim.github.io/Weather-App/)</h5> | Vanilla JS, PureCSS |<div width="250">![Weather](https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif)</div>
 
 
 
