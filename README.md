@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ömer</h1>
 <h3 align="center">Fullstack Developer...</h3>
 
-[My Personal Website](https://omeryildirim.netlify.app/)
+<div>
+Feel free to visit <h4>[My Personal Website](https://omeryildirim.netlify.app/)</h4>
+</div>
+
+Feel free to visit [My Personal Website](https://omeryildirim.netlify.app/)
 
 <!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
 <div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div>
