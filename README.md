@@ -129,9 +129,10 @@
 
 Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Stock App](https://mryldrm-stock.netlify.app/) | ReactJS, Redux Toolkit, Redux Persist, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react | <img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/>
-[Weather App](https://omeryilldirim.github.io/Weather-App/) | Javascript, CSS, OpenWeatherMap API | <div align="center"><img src="https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif" width="430" height="240" alt="to-do app"/></div>
-[To-Do App](https://omeryilldirim.github.io/To-Do-App/) | Javascript, CSS, LocalStorage | <div align="center"><img src="https://github.com/omeryilldirim/To-Do-App/blob/main/assets/to-do-app-snapshot.png" width="430" height="250" alt="to-do app"/></div>
+[Stock App](https://mryldrm-stock.netlify.app/) | React, Redux TK and Persist, JS, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react | <img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/>
+[Blog App](https://mryldrm-blog-app.netlify.app/) | React, Redux TK and Persist, JS, Tailwind, Toastify, Tw-elements, Formik, Yup. | <img src="https://github.com/omeryilldirim/Blog-App/blob/main/snapshot.gif" width="430" height="240" alt="blog app"/>
+[Weather App](https://omeryilldirim.github.io/Weather-App/) | Javascript, CSS, OpenWeatherMap API | <img src="https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif" width="430" height="240" alt="to-do app"/>
+[To-Do App](https://omeryilldirim.github.io/To-Do-App/) | Javascript, CSS, LocalStorage | <img src="https://github.com/omeryilldirim/To-Do-App/blob/main/assets/to-do-app-snapshot.png" width="430" height="250" alt="to-do app"/>
 
 
 
