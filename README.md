@@ -125,7 +125,7 @@
 Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Stock App](https://mryldrm-stock.netlify.app/) | ReactJS, Redux TK and Persist, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react | <img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/>
-[Blog App](https://mryldrm-blog-app.netlify.app/) | ReactJS, Redux TK and Persist, Tailwind, Toastify, Tw-elements, Formik, Yup | <img src="https://github.com/omeryilldirim/Blog-App/blob/main/snapshot.gif" width="430" height="240" alt="blog app"/>
+[Blog App](https://mryldrm-blog-app.netlify.app/) | ReactJS, Redux TK and Persist, Tailwind, Toastify, Tw-elements, Formik, Yup [Click to see repo](https://github.com/omeryilldirim/Blog-App) | <img src="https://github.com/omeryilldirim/Blog-App/blob/main/snapshot.gif" width="430" height="240" alt="blog app"/>
 [Movie App](https://mryldrm-movie.netlify.app/) | ReactJS, React Router, Firebase, Tailwind, Toastify, tw-elements, TheMovieDb API | <img src="https://github.com/omeryilldirim/Movie-App/blob/main/src/assets/snapshot.gif" width="430" height="240" alt="movie app"/>
 [Recipe App](https://mryldrm-recipe.netlify.app/) | Styled-Components, ReactJS, React Router, EdamamRecipeSearch API | <img src="https://github.com/omeryilldirim/Recipe-App/blob/main/snapshot.gif" width="430" height="240" alt="recipe app"/>
 [Library App](https://mryldrm-library.netlify.app/) | ReactJS, React Router, Styled-Components, Google Books API | <img src="https://github.com/omeryilldirim/React-Library-App/blob/main/library-app.gif" width="430" height="240" alt="library app"/>
