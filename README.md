@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer...</h3>
 
 <div align="center">
-<a href="https://omeryildirim.netlify.app/">Click to Visit My Personal Website</a>
+<a target="_blank" href="https://omeryildirim.netlify.app/">Click to Visit My Personal Website</a>
 </div>
 
 
