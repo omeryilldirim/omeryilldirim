@@ -133,6 +133,7 @@ Projects      |Libraries and Technologies     |Project Preview
 [Blog App](https://mryldrm-blog-app.netlify.app/) | ReactJS, Redux TK and Persist, Tailwind, Toastify, Tw-elements, Formik, Yup | <img src="https://github.com/omeryilldirim/Blog-App/blob/main/snapshot.gif" width="430" height="240" alt="blog app"/>
 [Movie App](https://mryldrm-movie.netlify.app/) | ReactJS, Firebase, Tailwind, Toastify, tw-elements, TheMovieDb API | <img src="https://github.com/omeryilldirim/Movie-App/blob/main/src/assets/snapshot.gif" width="430" height="240" alt="movie app"/>
 [NBA Legends App](https://omeryilldirim.github.io/nba-legends/) | SCSS, JS, React | <img src="https://github.com/omeryilldirim/nba-legends/blob/main/snapshot.gif" width="430" height="240" alt="nba-legends app"/>
+[React Checkout Page](https://omeryilldirim.github.io/Checkout-Page/) | CSS, JS, React, Mock API | <img src="https://github.com/omeryilldirim/Checkout-Page/blob/main/snapshot.png" width="430" height="240" alt="checkout page"/>
 [Weather App](https://omeryilldirim.github.io/Weather-App/) | Javascript, CSS, OpenWeatherMap API | <img src="https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif" width="430" height="240" alt="to-do app"/>
 [To-Do App](https://omeryilldirim.github.io/To-Do-App/) | Javascript, CSS, LocalStorage | <img src="https://github.com/omeryilldirim/To-Do-App/blob/main/assets/to-do-app-snapshot.png" width="430" height="250" alt="to-do app"/>
 
