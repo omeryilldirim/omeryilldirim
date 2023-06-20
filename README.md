@@ -124,15 +124,14 @@
 
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <h2 align="center">My Projects</h2>
-
+-->
 ###
 
-Project Demo       |Libraries and Technologies     |Project Preview   
+Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
--->
+[Weather App](hhttps://omeryilldirim.github.io/Weather-App/) <h3>[Repo](https://omeryilldirim.github.io/Weather-App/)</h3> | Vanilla JS, PureCSS |![Weather](https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif)
 
-<br>
+
 
 <!--
 <h2 align="center">💡Most Used Language</h2>
