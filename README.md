@@ -129,7 +129,7 @@
 
 Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Stock App](https://mryldrm-stock.netlify.app/) | ReactJS, Redux Toolkit, Redux Persist, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react | <div align="center"><img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/></div>
+[Stock App](https://mryldrm-stock.netlify.app/) | ReactJS, Redux Toolkit, Redux Persist, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react | <div><img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/></div>
 [Weather App](https://omeryilldirim.github.io/Weather-App/) | Javascript, CSS, OpenWeatherMap API | <div align="center"><img src="https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif" width="430" height="240" alt="to-do app"/></div>
 [To-Do App](https://omeryilldirim.github.io/To-Do-App/) | Javascript, CSS, LocalStorage | <div align="center"><img src="https://github.com/omeryilldirim/To-Do-App/blob/main/assets/to-do-app-snapshot.png" width="430" height="250" alt="to-do app"/></div>
 
