@@ -4,8 +4,6 @@
 <div align="center">
 <a href="https://omeryildirim.netlify.app/">Click to Visit My Personal Website</a>
 </div>
-[Click to Visit My Personal Website](https://omeryildirim.netlify.app/)
-
 
 
 <!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
