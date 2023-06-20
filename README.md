@@ -130,8 +130,7 @@
 Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Weather App](https://omeryilldirim.github.io/Weather-App/) | Vanilla JS, PureCSS | ![Weather](https://github.com/omeryilldirim/Weather-App/blob/main/assets/snapshot.gif)
-[To-Do App](https://omeryilldirim.github.io/To-Do-App/) | Vanilla JS, PureCSS | ![Weather](https://github.com/omeryilldirim/To-Do-App/blob/main/assets/to-do-app-snapshot.png)
-
+[To-Do App](https://omeryilldirim.github.io/To-Do-App/) | Vanilla JS, PureCSS | ![To-Do]<img src="https://github.com/omeryilldirim/To-Do-App/blob/main/assets/to-do-app-snapshot.png" width="100" height="100" />
 
 
 
