@@ -2,8 +2,9 @@
 <h3 align="center">Fullstack Developer...</h3>
 
 <div align="center">
-<a target="_blank" href="https://omeryildirim.netlify.app/">Click to Visit My Personal Website</a>
+<a target="_blank" href="https://www.yildirimomer.com/">[www.yildirimomer.com](https://www.yildirimomer.com/)</a>
 </div>
+<p>[www.yildirimomer.com](https://www.yildirimomer.com/)</p>
 
 
 <!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
