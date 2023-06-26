@@ -4,7 +4,7 @@
 <div align="center">
 <a target="_blank" href="https://www.yildirimomer.com/">www.yildirimomer.com</a>
 </div>
-<p>[Click](https://www.yildirimomer.com/)</p>
+
 
 
 <!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
