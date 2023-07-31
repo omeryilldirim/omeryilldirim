@@ -12,13 +12,13 @@
 
 <!-- - 🔭 I’m in a backend bootcamp, learning **django** -->
 
-- 📫 How to reach me : **https://github.com/yilldirimomerr**
+- 🧑🏻‍💻 Feel free to checkout my another github account : [Github account](https://github.com/yilldirimomerr)
 
 - 🤝 I’m open to collaborate **on any project**
 
 - 📫 How to reach me : **omeryilldirim@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/omer-yilldirim/](https://www.linkedin.com/in/omer-yilldirim/)
+- 📄 Know about my experiences [My linkedin profile](https://www.linkedin.com/in/omer-yilldirim/)
 
 - ⚡ Fun fact : **Most programmers love caffeine while coding, using 2-6 cups per day!**
 
