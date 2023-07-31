@@ -18,7 +18,7 @@
 
 - 📫 How to reach me : **omeryilldirim@outlook.com**
 
-- 📄 Know about my experiences [My linkedin profile](https://www.linkedin.com/in/omer-yilldirim/)
+- 📄 Learn about my experiences : [My linkedin profile](https://www.linkedin.com/in/omer-yilldirim/)
 
 - ⚡ Fun fact : **Most programmers love caffeine while coding, using 2-6 cups per day!**
 
