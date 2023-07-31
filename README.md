@@ -8,9 +8,11 @@
 
 
 <!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
-<div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div>
+<!-- <div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div> -->
 
 <!-- - 🔭 I’m in a backend bootcamp, learning **django** -->
+
+- 📫 How to reach me : **https://github.com/yilldirimomerr**
 
 - 🤝 I’m open to collaborate **on any project**
 
