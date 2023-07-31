@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ömer</h1>
+<h1 align="center">Hi there 👋 ,  I'm Ömer</h1>
 <h3 align="center">Fullstack Developer...</h3>
 
 <div align="center">
@@ -10,7 +10,7 @@
 <!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
 <div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div>
 
-- 🔭 I’m in a backend bootcamp, learning **django**
+<!-- - 🔭 I’m in a backend bootcamp, learning **django** -->
 
 - 🤝 I’m open to collaborate **on any project**
 
