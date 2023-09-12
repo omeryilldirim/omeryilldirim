@@ -12,7 +12,7 @@
 
 <!-- - 🔭 I’m in a backend bootcamp, learning **django** -->
 
-- 🧑🏻‍💻 Feel free to visit my another github account : [yilldirimomerr](https://github.com/yilldirimomerr)
+<!-- - 🧑🏻‍💻 Feel free to visit my another github account : [yilldirimomerr](https://github.com/yilldirimomerr) -->
 
 - 🤝 I’m open to collaborate **on any project**
 
