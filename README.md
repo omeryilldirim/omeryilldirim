@@ -125,7 +125,7 @@
 
 Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[AgentSphere App](https://apps.apple.com/uy/app/agentsphere/id6472581045?platform=iphone) | React Native, Expo, React Navigation, Redux, Tailwind, i18next, Formik, Yup, Toastify | <img src="https://github.com/omeryilldirim/Portfolio-Website/blob/main/src/assets/img/agentsphereapp.gif" width="430" height="240" alt="stock app"/>
+[AgentSphere App](https://apps.apple.com/uy/app/agentsphere/id6472581045?platform=iphone) | React Native, Expo, React Navigation, Redux, Tailwind, i18next, Formik, Yup, Toastify | <img src="https://github.com/omeryilldirim/Portfolio-Website/blob/main/src/assets/img/agentsphereapp.gif" alt="stock app"/>
 [Stock App](https://mryldrm-stock.netlify.app/) | ReactJS, Redux TK and Persist, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react [Click to see repo](https://github.com/omeryilldirim/Stock-App) | <img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/>
 [Blog App](https://mryldrm-blog-app.netlify.app/) | ReactJS, Redux TK and Persist, Tailwind, Toastify, Tw-elements, Formik, Yup [Click to see repo](https://github.com/omeryilldirim/Blog-App) | <img src="https://github.com/omeryilldirim/Blog-App/blob/main/snapshot.gif" width="430" height="240" alt="blog app"/>
 [Movie App](https://mryldrm-movie.netlify.app/) | ReactJS, React Router, Firebase, Tailwind, Toastify, tw-elements, TheMovieDb API [Click to see repo](https://github.com/omeryilldirim/Movie-App) | <img src="https://github.com/omeryilldirim/Movie-App/blob/main/src/assets/snapshot.gif" width="430" height="240" alt="movie app"/>
