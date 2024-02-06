@@ -131,9 +131,12 @@ Projects      |Libraries and Technologies     |Project Preview
 [Blog App](https://mryldrm-blog-app.netlify.app/) | ReactJS, Redux TK and Persist, Tailwind, Toastify, Tw-elements, Formik, Yup [Click to see repo](https://github.com/omeryilldirim/Blog-App) | <img src="https://github.com/omeryilldirim/Blog-App/blob/main/snapshot.gif" width="430" height="240" alt="blog app"/>
 [Movie App](https://mryldrm-movie.netlify.app/) | ReactJS, React Router, Firebase, Tailwind, Toastify, tw-elements, TheMovieDb API [Click to see repo](https://github.com/omeryilldirim/Movie-App) | <img src="https://github.com/omeryilldirim/Movie-App/blob/main/src/assets/snapshot.gif" width="430" height="240" alt="movie app"/>
 [Recipe App](https://mryldrm-recipe.netlify.app/) | Styled-Components, ReactJS, React Router, EdamamRecipeSearch API [Click to see repo](https://github.com/omeryilldirim/Recipe-App) | <img src="https://github.com/omeryilldirim/Recipe-App/blob/main/snapshot.gif" width="430" height="240" alt="recipe app"/>
+[Business Webpage](https://omeryilldirim.github.io/Business-Webpage/) | HTML, Bootstrap, FsLightbox.js [Click to see repo](https://github.com/omeryilldirim/Business-Webpage)| <img src="https://github.com/omeryilldirim/Business-Webpage/blob/main/snapshot.gif" width="430" height="250" alt="business page"/>
+[Parallax Website](https://omeryilldirim.github.io/Parallax-Website/) | HTML, CSS [Click to see repo](https://github.com/omeryilldirim/Parallax-Website)| <img src="https://github.com/omeryilldirim/Parallax-Website/blob/main/parallax-website.gif" width="430" height="250" alt="parallax website"/>
+
+<!--
 [Library App](https://mryldrm-library.netlify.app/) | ReactJS, React Router, Styled-Components, Google Books API [Click to see repo](https://github.com/omeryilldirim/React-Library-App)| <img src="https://github.com/omeryilldirim/React-Library-App/blob/main/library-app.gif" width="430" height="240" alt="library app"/>
 [NBA Legends App](https://omeryilldirim.github.io/nba-legends/) | SASS/SCSS, ReactJS [Click to see repo](https://github.com/omeryilldirim/nba-legends)| <img src="https://github.com/omeryilldirim/nba-legends/blob/main/snapshot.gif" width="430" height="240" alt="nba-legends app"/>
-[Business Webpage](https://omeryilldirim.github.io/Business-Webpage/) | HTML, Bootstrap, FsLightbox.js [Click to see repo](https://github.com/omeryilldirim/Business-Webpage)| <img src="https://github.com/omeryilldirim/Business-Webpage/blob/main/snapshot.gif" width="430" height="250" alt="business page"/>
 [Tasks Page with Chakra-UI](https://github.com/omeryilldirim/Chakra-UI-Project/) | React, Router, React Context API and Chakra-UI [Click to see repo](https://github.com/omeryilldirim/Chakra-UI-Project/)| <img src="https://github.com/omeryilldirim/Chakra-UI-Project/blob/main/snapshot.gif" width="430" height="250" alt="chakra tasks"/>
 [React Checkout Page](https://omeryilldirim.github.io/Checkout-Page/) | CSS, ReactJS, Mock API [Click to see repo](https://github.com/omeryilldirim/Checkout-Page)| <img src="https://github.com/omeryilldirim/Checkout-Page/blob/main/snapshot.png" width="430" height="240" alt="checkout page"/>
 [Task Tracker](https://mryldrm-task-tracker.netlify.app/) | CSS, ReactJS [Click to see repo](https://github.com/omeryilldirim/React-Task-Tracker)| <img src="https://github.com/omeryilldirim/React-Task-Tracker/blob/main/snapshot.png" width="430" height="240" alt="task tracker"/>
@@ -146,16 +149,16 @@ Projects      |Libraries and Technologies     |Project Preview
 [Guess the Number!](https://omeryilldirim.github.io/Guess-The-Number/) | HTML, VanillaJS, Bootstrap, DOM Manipulation [Click to see repo](https://github.com/omeryilldirim/Guess-The-Number)| <img src="https://github.com/omeryilldirim/Guess-The-Number/blob/main/snapshot.png" width="430" height="250" alt="guess the number"/>
 [Guess the Country!](https://omeryilldirim.github.io/Guess-The-Country/) | HTML, VanillaJS, Bootstrap, DOM Manipulation [Click to see repo](https://github.com/omeryilldirim/Guess-The-Country)| <img src="https://github.com/omeryilldirim/Guess-The-Country/blob/main/snapshot.png" width="430" height="250" alt="guess the country"/>
 [Password Generator](https://omeryilldirim.github.io/Random-Password-Generator/) | HTML, CSS, VanillaJS, DOM Manipulation [Click to see repo](https://github.com/omeryilldirim/Random-Password-Generator)| <img src="https://github.com/omeryilldirim/Random-Password-Generator/blob/main/snapshot.png" width="430" height="250" alt="password generator"/>
-[Parallax Website](https://omeryilldirim.github.io/Parallax-Website/) | HTML, CSS [Click to see repo](https://github.com/omeryilldirim/Parallax-Website)| <img src="https://github.com/omeryilldirim/Parallax-Website/blob/main/parallax-website.gif" width="430" height="250" alt="parallax website"/>
+-->
 
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omeryilldirim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omeryilldirim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
+-->
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeryilldirim&label=Profile%20views&color=0e75b6&style=flat" alt="omeryilldirim" /> </p>         
 
