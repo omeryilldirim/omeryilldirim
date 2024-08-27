@@ -1,8 +1,10 @@
 <h1 align="center">Ömer YILDIRIM</h1>
-<h3 align="center">Fullstack Developer...</h3>
+<h3 align="center">Frontend Developer...</h3>
 
 <div align="center">
+<!--
 <a target="_blank" href="https://www.yildirimomer.com/">www.yildirimomer.com</a>
+-->
 </div>
 
 
@@ -49,8 +51,10 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="2" />
+  <!--
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="2" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -63,12 +67,14 @@
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="2" />
+  <!--
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="2" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/>
   <img width="2" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
